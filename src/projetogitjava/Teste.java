@@ -9,5 +9,5 @@ package projetogitjava;
  * @author eduardo.151294
  */
 public class Teste {
-    
+    System.out.println("Teste");
 }
